@@ -1,0 +1,2 @@
+# sinapic
+get sina picture
